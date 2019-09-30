@@ -1,4 +1,4 @@
-#' @importFrom devtools dev_meta
+#' @importFrom pkgload dev_meta
 inst_path <- function() {
   if (is.null(dev_meta("staticdocs"))) {
     # staticdocs is probably installed
