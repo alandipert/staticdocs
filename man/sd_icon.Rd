@@ -16,4 +16,3 @@ function name}
 \description{
 Define the icon for a function.
 }
-

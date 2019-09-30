@@ -15,4 +15,3 @@ file}
 \description{
 Define an item in a section of the index.
 }
-

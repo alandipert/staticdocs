@@ -19,4 +19,3 @@ leaves are given a short prefix: \code{\"} = text, \code{\'} = verbatim, and
 \examples{
 parse_rd("whisker.render", "whisker")
 }
-

@@ -24,7 +24,7 @@ Imports:
     pkgload
 Suggests:
     testthat
-RoxygenNote: 5.0.1
+RoxygenNote: 6.1.1
 UrlNote: https://github.com/hadley/staticdocs
 URL: https://github.com/hadley/staticdocs
 BugReports: https://github.com/hadley/staticdocs/issues

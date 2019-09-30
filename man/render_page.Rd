@@ -19,4 +19,3 @@ prints to standard out.}
 \description{
 Render complete page.
 }
-

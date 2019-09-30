@@ -19,4 +19,3 @@ A list, suitable for rendering with
 All span-level tags are converted to html, and higher level blocks are
 returned as components of the list.
 }
-

@@ -17,4 +17,3 @@ names, or if you want to override defaults from the rd file,}
 \description{
 Define a section for the index page
 }
-
